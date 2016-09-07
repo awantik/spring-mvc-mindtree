@@ -1,0 +1,250 @@
+2016-09-07 08:40:14,187 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-demo:spring-mvc-demo:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\pom.xml.
+2016-09-07 08:40:19,066 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:19,068 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:40:19,071 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:19,072 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:40:19,101 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-demo/src
+2016-09-07 08:40:19,102 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-mvc-demo/src/test/java because it overlaps with /spring-mvc-demo/src
+2016-09-07 08:40:19,751 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-07 08:40:21,484 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-demo:spring-mvc-demo:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\pom.xml.
+2016-09-07 08:40:25,291 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:25,293 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:40:25,296 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:25,297 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:40:25,298 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-demo
+2016-09-07 08:40:25,299 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-demo
+2016-09-07 08:40:25,423 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:25,458 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-demo/src
+2016-09-07 08:40:25,459 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-mvc-demo/src/test/java because it overlaps with /spring-mvc-demo/src
+2016-09-07 08:40:26,034 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-mvc-demo
+2016-09-07 08:40:26,087 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2016-09-07 08:40:26,516 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:26,517 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:40:26,520 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:40:26,521 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:40:26,522 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-demo
+2016-09-07 08:40:26,522 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-demo
+2016-09-07 08:40:26,530 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:47,734 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-demo:spring-mvc-demo:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\pom.xml.
+2016-09-07 08:41:51,145 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:51,147 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:41:51,151 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:51,153 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:41:51,154 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-demo
+2016-09-07 08:41:51,154 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-demo
+2016-09-07 08:41:51,165 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:52,655 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:52,656 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:41:52,658 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:41:52,660 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:43:42,748 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-mvc-demo:spring-mvc-demo:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\pom.xml.
+2016-09-07 08:43:45,365 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:43:45,367 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:43:45,372 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:43:45,373 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:43:45,374 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-mvc-demo
+2016-09-07 08:43:45,374 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-mvc-demo
+2016-09-07 08:43:45,384 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:44:12,677 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:44:12,678 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:44:12,681 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:44:12,682 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:44:13,758 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:44:13,760 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:44:13,763 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:44:13,764 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:45:54,905 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:45:54,907 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:45:54,911 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:45:54,913 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:46:06,796 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:46:06,798 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:46:06,801 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:46:06,803 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:46:53,329 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:46:53,331 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:46:53,335 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:46:53,337 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:47:05,716 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:47:05,718 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:47:05,722 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:47:05,725 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:48:01,452 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:01,454 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:48:01,458 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:01,460 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:48:23,159 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:23,161 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:48:23,164 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:23,165 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:48:36,031 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:36,034 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:48:36,039 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:48:36,041 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:49:56,107 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:49:56,109 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:49:56,113 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:49:56,114 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:50:09,949 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:50:09,951 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:50:09,954 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:50:09,956 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 08:51:41,653 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:51:41,655 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 08:51:41,657 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 08:51:41,661 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:01:58,902 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:01:58,904 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:01:58,907 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:01:58,908 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:02:06,392 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:02:06,394 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:02:06,397 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:02:06,398 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:13:10,928 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:10,930 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:13:10,935 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:10,938 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:13:20,201 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:20,203 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:13:20,207 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:20,209 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:13:29,156 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:29,157 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:13:29,160 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:29,162 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:13:38,205 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:38,206 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:13:38,209 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:38,210 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:13:46,026 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:46,028 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:13:46,031 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:13:46,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:14:17,276 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:14:17,279 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:14:17,282 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:14:17,283 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:14:59,411 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:14:59,413 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:14:59,416 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:14:59,417 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:15:37,341 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:37,343 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:15:37,346 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:37,348 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:15:45,145 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:45,147 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:15:45,150 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:45,152 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:15:58,653 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:58,655 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:15:58,659 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:15:58,661 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:16:14,177 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:16:14,179 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:16:14,182 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:16:14,183 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:19:12,384 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:19:12,386 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:19:12,390 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:19:12,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:53:09,103 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:53:09,113 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:53:09,116 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:53:09,118 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:53:25,233 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:53:25,235 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:53:25,238 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:53:25,240 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:56:25,906 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:56:25,908 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:56:25,911 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:56:25,912 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 09:58:50,979 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:58:50,981 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 09:58:50,984 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 09:58:50,986 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:13:33,152 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mindtree-spring:mindtree-spring:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\pom.xml.
+2016-09-07 10:13:39,872 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:39,874 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\main\resources
+2016-09-07 10:13:39,880 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:39,881 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\test\resources
+2016-09-07 10:13:40,034 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mindtree-spring/src
+2016-09-07 10:13:40,037 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /mindtree-spring/src/test/java because it overlaps with /mindtree-spring/src
+2016-09-07 10:13:40,995 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-07 10:13:42,680 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mindtree-spring:mindtree-spring:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\pom.xml.
+2016-09-07 10:13:45,096 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:45,097 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\main\resources
+2016-09-07 10:13:45,099 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:45,100 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\test\resources
+2016-09-07 10:13:45,100 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mindtree-spring
+2016-09-07 10:13:45,100 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mindtree-spring
+2016-09-07 10:13:45,105 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:45,181 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mindtree-spring/src
+2016-09-07 10:13:45,182 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /mindtree-spring/src/test/java because it overlaps with /mindtree-spring/src
+2016-09-07 10:13:45,396 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mindtree-spring
+2016-09-07 10:13:45,418 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-09-07 10:13:45,577 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:45,578 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\main\resources
+2016-09-07 10:13:45,580 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:13:45,580 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\test\resources
+2016-09-07 10:13:45,581 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mindtree-spring
+2016-09-07 10:13:45,581 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mindtree-spring
+2016-09-07 10:13:45,585 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:14:50,838 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mindtree-spring:mindtree-spring:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\pom.xml.
+2016-09-07 10:14:55,297 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:14:55,299 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\main\resources
+2016-09-07 10:14:55,305 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:14:55,307 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\test\resources
+2016-09-07 10:14:55,307 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mindtree-spring
+2016-09-07 10:14:55,308 [Worker-81] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mindtree-spring
+2016-09-07 10:14:55,318 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:15:46,731 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: mindtree-spring:mindtree-spring:0.0.1-SNAPSHOT @ E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\pom.xml.
+2016-09-07 10:15:49,211 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:15:49,212 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\main\resources
+2016-09-07 10:15:49,215 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:15:49,216 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\mindtree-spring\src\test\resources
+2016-09-07 10:15:49,216 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mindtree-spring
+2016-09-07 10:15:49,216 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mindtree-spring
+2016-09-07 10:15:49,221 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:42:28,617 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:42:28,619 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:42:28,622 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:42:28,625 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:42:37,568 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:42:37,571 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:42:37,577 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:42:37,579 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:45:35,577 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:45:35,579 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:45:35,583 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:45:35,585 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:53:50,569 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:53:50,571 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:53:50,575 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:53:50,578 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:54:19,652 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:54:19,660 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:54:19,665 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:54:19,668 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:57:28,335 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:57:28,337 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:57:28,341 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:57:28,343 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:58:06,335 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:06,337 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:58:06,340 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:06,342 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:58:29,127 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:29,129 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:58:29,132 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:29,134 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 10:58:51,724 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:51,725 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 10:58:51,728 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 10:58:51,730 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources
+2016-09-07 11:07:35,118 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 11:07:35,120 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\main\resources
+2016-09-07 11:07:35,123 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-07 11:07:35,125 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Coaching\Java-Code\SpringCodeMindtree\spring-mvc-demo\src\test\resources

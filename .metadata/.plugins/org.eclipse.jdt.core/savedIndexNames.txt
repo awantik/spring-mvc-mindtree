@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+E:\Coaching\Java-Code\SpringCodeMindtree\.metadata\.plugins\org.eclipse.jdt.core
+3617312122.index
