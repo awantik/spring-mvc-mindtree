@@ -9,7 +9,7 @@
 <form:form method="POST" action="/spring-mvc-demo/student/addStudent">
    <table>
     <tr>
-        <td><form:label path="name">Name</form:label></td>
+        <td><form:label path="namet">Name</form:label></td>
         <td><form:input path="name" /></td>
     </tr>
     <tr>

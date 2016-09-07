@@ -20,27 +20,19 @@ public class StudentController {
 		return new ModelAndView("home","message",message);
 	}	
 	
-   @RequestMapping(value = "/studentform", method = RequestMethod.GET)
+   @RequestMapping(value = "/student", method = RequestMethod.GET)
    public ModelAndView student() {
       return new ModelAndView("student", "command", new Student());
    }
    
-   
-//   @RequestMapping(value = "/studentform", method = RequestMethod.GET)
-//   public String newstudent() {
-//      return "student";
-//   }
-//   
-   
    @RequestMapping(value = "/addStudent", method = RequestMethod.POST)
-   public String addStudent(@ModelAttribute("student") Student student, 
+   public String addStudent(@ModelAttribute("SpringWeb") Student student, 
    ModelMap model) {
-      //model.addAttribute("name", student.getName());
-      //model.addAttribute("age", student.getAge());
-      //model.addAttribute("id", student.getId());
+      model.addAttribute("name", student.getName());
+      model.addAttribute("age", student.getAge());
+      model.addAttribute("id", student.getId());
       model.addAttribute("student", student);
       
-      return "result"; 
-      // In case of string return value, this will be subjected to RequestToViewNameTranslator
+      return "result";
    }
 }

@@ -9,11 +9,11 @@
    <table>
     <tr>
         <td>Name</td>
-        <td>${student.name}</td>
+        <td>${name}</td>
     </tr>
     <tr>
         <td>Age</td>
-        <td>${student.age}</td>
+        <td>${age}</td>
     </tr>
     <tr>
         <td>ID</td>
