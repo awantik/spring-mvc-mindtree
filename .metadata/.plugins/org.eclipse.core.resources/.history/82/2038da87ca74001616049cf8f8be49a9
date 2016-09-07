@@ -1,0 +1,36 @@
+package com.skillspeed;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+@RequestMapping("/home")
+public class HomeController {
+	
+	@RequestMapping("/{name}")
+	public ModelAndView getPage(@PathVariable String name){
+		String message ="<h1>Hello " + name +"</h1>";
+		//Student s = new 
+		
+		return new ModelAndView("home","message",message);
+	}
+	
+//	@RequestMapping("/")
+//	public String getPage(){
+//		//String message ="<h1>Hello World</h1>";
+//		//Student s = new 
+//		
+//		return "redirect:/WEB-INF/test.html";
+//	}
+//	
+	
+	@RequestMapping("/contactus")
+	public ModelAndView getContactUSPage(){
+		String message ="<h1>Contact Us</h1>";
+		
+		return new ModelAndView("home","message",message);
+	}
+
+}

@@ -1,6 +1,7 @@
 package com.skillspeed;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -8,13 +9,22 @@ import org.springframework.web.servlet.ModelAndView;
 @RequestMapping("/home")
 public class HomeController {
 	
-	@RequestMapping("/")
-	public ModelAndView getPage(){
-		String message ="<h1>Hello World</h1>";
+	@RequestMapping("/{name}/{location}")
+	public ModelAndView getPage(@PathVariable String name, @PathVariable String location){
+		String message ="<h1>Hello " + name + " " + location +"</h1>";
 		//Student s = new 
 		
 		return new ModelAndView("home","message",message);
 	}
+	
+	@RequestMapping("/static")
+	public String getstaticPage(){
+		//String message ="<h1>Hello World</h1>";
+		//Student s = new 
+		return "redirect:html/home.html";
+		
+	}
+	
 	
 	@RequestMapping("/contactus")
 	public ModelAndView getContactUSPage(){
