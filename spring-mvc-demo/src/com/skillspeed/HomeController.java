@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-@RequestMapping("/home")
+//@RequestMapping("/home")
 public class HomeController {
 	
 	@RequestMapping("/{name}/{location}")
@@ -19,8 +19,7 @@ public class HomeController {
 	
 	@RequestMapping("/static")
 	public String getstaticPage(){
-		//String message ="<h1>Hello World</h1>";
-		//Student s = new 
+ 
 		return "redirect:html/home.html";
 		
 	}
@@ -32,5 +31,18 @@ public class HomeController {
 		
 		return new ModelAndView("home","message",message);
 	}
+	
+	@RequestMapping("/upload")
+	public String getFileUploadPage(){
+		String message ="<h1>Single Upload</h1>";	
+		return "upload";
+	}
+
+	@RequestMapping("/multiupload")
+	public String getMultiFileUploadPage(){
+		String message ="<h1>Multiple Upload</h1>";	
+		return "multipleupload";
+	}
+
 
 }

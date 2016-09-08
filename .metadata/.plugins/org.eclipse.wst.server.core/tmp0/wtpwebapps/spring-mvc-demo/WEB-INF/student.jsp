@@ -1,9 +1,14 @@
 <%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
 <html>
 <head>
     <title>Spring MVC Form Handling</title>
 </head>
 <body>
+
+
+<img src="<c:url value="/resources/img/pic.png" />" />
 
 <h2>Student Information</h2>
 <form:form method="POST" action="/spring-mvc-demo/student/addStudent">

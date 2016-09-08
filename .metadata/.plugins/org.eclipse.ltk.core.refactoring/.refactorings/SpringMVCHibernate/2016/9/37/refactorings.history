@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMVCHibernate/src/main/java/com/journaldev&apos; to &apos;skillspeed&apos;" description="Rename resource &apos;journaldev&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/journaldev" name="skillspeed" stamp="1473295989207" updateReferences="true"/>
+</session>

@@ -107,3 +107,5 @@
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:12:43:23 +0530] "GET /spring-mvc-demo/home/awantik/bangalore HTTP/1.1" 200 297
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:13:13:53 +0530] "GET /spring-mvc-demo/home/static HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:13:13:53 +0530] "GET /spring-mvc-demo/home/html/home.html HTTP/1.1" 200 289
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:13:19:54 +0530] "GET /spring-mvc-demo/home/static HTTP/1.1" 404 1035
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:13:24:36 +0530] "GET /spring-mvc-demo/home/a/b HTTP/1.1" 200 283

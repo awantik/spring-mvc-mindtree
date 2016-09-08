@@ -2,3 +2,6 @@
 1473218501430	Move 'home.jsp' to 'WEB-INF'
 1473219808867	Copy package
 1473219817867	Delete element
+1473275134171	Move 'resources' to 'WebContent'
+1473275949959	Move 'upload.jsp' to 'WEB-INF'
+1473309652769	Move 'html' to 'resources'

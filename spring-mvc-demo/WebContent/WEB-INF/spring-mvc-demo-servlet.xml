@@ -20,7 +20,15 @@
 		<property name="suffix" value=".jsp" />
 	</bean>
     
-    <mvc:resources mapping="/html/**" location="/WEB-INF/html/" />
+    <mvc:resources mapping="/html/**" location="/resources/html/" />
+    <mvc:resources mapping="/resources/**" location="/resources/"/>
+    
+    <!-- Needed for file upload -->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+
+    <!-- setting maximum upload size -->
+	<property name="maxUploadSize" value="100000" />
+	</bean>
     
 	<!-- Step 4: Add support for conversion, formatting and validation support -->
 	<mvc:annotation-driven/>
