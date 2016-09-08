@@ -1,0 +1,4 @@
+1. Design POJO
+2. Decide CURD urls
+3. Design Controller Class
+4. Controller Singleton Object needs access to POJO CURD executor
